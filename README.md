@@ -28,7 +28,13 @@ Use the wireframe at the bottom of the README as a reference for your layout.
 
 ### Part 2: Implement Patient Sorting
 
-Add a feature that sorts patients by name. The search input should both support ascending and descending.
+Add a feature that sorts patients by name, supporting both ascending and descending ordering.
+
+For simplicity, you can import the provided SVG as an image:
+
+```
+<img src="../assets/chevron-down.svg" />
+```
 
 ### Part 3: Testing
 

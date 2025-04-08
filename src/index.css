@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Roboto, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -8,8 +8,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  /* Define colours for them to use here */
-  --color-blue-100: blue;
-  --color-blue-200: blue;
-  /* Etc. */
+  --color-green-100: #037C7C;
+  --color-text-zinc: #363863;
+  --color-border-silver: #E0E1EB;
+  --color-background-cloud: #F2F2F5;
 }
